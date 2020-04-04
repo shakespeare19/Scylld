@@ -8,9 +8,11 @@ Copy the link to your clipboard.
 
 Run the following command:
 
-  a) cd [your directory]
+1) cd [your directory]
   
-  b) git clone [paste the link here]
+2) git clone [paste the link here]
+
+3) Open the file and,
 
 Click "index.html" to view 
 Click "styles.css" to change the styling.
