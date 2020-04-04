@@ -7,8 +7,8 @@ To install and run in your local host, follow these steps:
 Copy the link to your clipboard.
 
 Run the following command:
-cd [your directory]
-git clone [paste the link here]
+a) cd [your directory]
+b) git clone [paste the link here]
 
 Click "index.html" to view 
 Click "styles.css" to change the styling.
