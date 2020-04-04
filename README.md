@@ -15,4 +15,4 @@ Run the following command:
 3) Open the file and,
 
 Click "index.html" to view 
-Click "styles.css" to change the styling.
+OR click "styles.css" to change the styling.
