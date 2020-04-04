@@ -9,6 +9,7 @@ Copy the link to your clipboard.
 Run the following command:
 
   a) cd [your directory]
+  
   b) git clone [paste the link here]
 
 Click "index.html" to view 
