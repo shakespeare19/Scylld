@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+	overflow-x: hidden;
+	font-family: cabin;
+	color: #505962; 
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+}
+
+/*navigation*/
+.navbar{
+	font-weight: 700;
+	font-size: 0.9rem;
+	letter-spacing: 0.1rem;
+	background-color: rgba(0,0,0,5.0) !important;
+}
+
+.navbar-nav li{
+	padding-right: 0.7rem;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: white;
+	padding-top: 0.8rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: white;
+}
+
+.btn-danger{
+	color: white;
+	background-color: #DD0014;
+}
+
+.home-inner{
+	background-image: url(images/header.jpg);
+	background-position: fixed;
+}
+
+.caption{
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 20%;
+	z-index: 1;
+	color: white;
+}
+
+.caption h1{
+	font-size: 3.8rem;
+	font-weight: 700;
+	letter-spacing: .3rem;
+	text-shadow: .1rem .1rem .8rem black;
+	padding-bottom: 1rem; 
+	text-align: left;
+	padding-left: 10%;
+}
+
+.caption h3 {
+	font-style: 2rem;
+	text-shadow: .1rem .1rem .5rem black;
+	padding-bottom: 1.6rem;
+	text-align: left;
+	padding-left: 10%;
+	font-family: raleway; 
+}
+
+.caption .row input {
+	width: 33%;
+	text-align: inherit;
+	border-radius: .3em;
+}
+
+.caption .row a {
+	margin-left: 2%;
+
+}
+
+.jumbotron{
+	background: black;
+	padding-bottom:2%; 
+
+}
+
+.container{
+/*	padding-left: 10%;
+	padding-right: 10%;
+		position: center*/
+
+}
+
+.container .card {
+	width: 80%;
+	color: white;
+	margin-bottom: 2%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container .card .card-body{
+	background-image: url(images/mob-app.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	height: auto;
+}
+
+.container .card .card1 h1{
+	text-align: center;
+	font-family: cabin;
+}
+
+.container .card1 p{
+	text-align: center;
+	font-family: raleway;
+}
+
+.container .card .card2 {
+	background-image: url(images/web-app.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.container .card .card2 h1{
+	text-align: center;
+	font-family: cabin;
+}
+
+.container .card2 p{
+	text-align: center;
+	font-family: raleway;
+}
+
+.container .card .card3{
+	background-image: url(images/api6.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.container .card .card3 h1{
+	text-align: center;
+	font-family: cabin;
+}
+
+.container .card3 p{
+	text-align: center;
+	font-family: raleway;
+}
+
+.container .card .card4{
+	background-image: url(images/cloud.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.container .card .card4 h1{
+	text-align: center;
+	font-family: cabin;
+}
+
+.container .card4 p{
+	text-align: center;
+	font-family: raleway;
+}
+
+.row-footer{
+	background: #6E2227;
+	color: white;
+	font-family: raleway;
+}
+
+.row-footer .row1{
+	text-align: center;
+	display: flex;
+}
+
+
+.row-footer .row2{
+	text-align: center;
+/*	display: flex;
+*/}
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
