@@ -25,3 +25,4 @@ OR click "styles.css" to change the styling.
 3) button contact us now and email dia akan stack to each other bila makin kecik, tapi kalau kemas bersebelahan, ok je.
 4) kalau nak test power, boleh buat toolbar. hover setiap transitions set fix either 150ms or 100ms. up to u.
 5) dah relax2 wiken, aku nak buat slide utk kerja pwc aku. dalam rabu or khamis aku continue balik. nak siapkan proposal jugak utk mobile app. 
+6) ni contoh aku kt webflow, boleh cek satu2 macam mana yg front page ubah. ignore yg page bawah, aku takde masa hahaha. [Click this](https://preview.webflow.com/preview/scylld?utm_medium=preview_link&utm_source=designer&utm_content=scylld&preview=1204090bc80fad9ad18deb20eb6b3576&mode=preview)
