@@ -16,3 +16,12 @@ Run the following command:
 
 Click "index.html" to view 
 OR click "styles.css" to change the styling.
+
+
+## Things to fix
+
+1) Background kecikkan sikit so that dia nampak every shape of laptop dekat semua device
+2) margin/padding lari dekat ip6/7 sebab kita set setiap div ada features margin. Sepatutnya ada div yang control margin semua-left. dalam div ada div. tapi takpe, relax2 dulu. nak ubah code kemudian.
+3) button contact us now and email dia akan stack to each other bila makin kecik, tapi kalau kemas bersebelahan, ok je.
+4) kalau nak test power, boleh buat toolbar. hover setiap transitions set fix either 150ms or 100ms. up to u.
+5) dah relax2 wiken, aku nak buat slide utk kerja pwc aku. dalam rabu or khamis aku continue balik. nak siapkan proposal jugak utk mobile app. 
